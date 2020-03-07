@@ -5,6 +5,8 @@ public class RemoveDuplicates {
 	public static void main(String[] args) {		
 		
 //		Declare a String as PayPal India
+		
+// 		Expected - OutPut :  ylIndi
 
 //		Convert it into a character array
 
