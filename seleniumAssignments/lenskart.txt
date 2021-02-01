@@ -1,0 +1,8 @@
+1. Launch Edge Browser
+2. Go to "https://www.lenskart.com/"
+3. Mouse hover "Computer Glasses" -> Men -> click Premium range
+4. And click Round(Frame shape)
+5. Click on Frame color with highest count
+6. confirm the count shown in the frame color matches the displayed results count
+7. Print the number of small, Medium and large frame size count
+   (Size of frame will appear when you mouse over on each frame displayed)
